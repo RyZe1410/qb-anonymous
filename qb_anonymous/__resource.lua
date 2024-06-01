@@ -1,6 +1,6 @@
-description 'ESX Anonymous'
+description 'qb Anonymous'
 
-author 'Babooche#0001'
+author 'RyZeツ'
 
 version '0.0.1'
 
